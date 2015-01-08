@@ -15,5 +15,13 @@
     "server"
   ],
   "author": "theverything (Jeffrey Horn)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theverything/mssql-geoparser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theverything/mssql-geoparser/issues"
+  },
+  "homepage": "https://github.com/theverything/mssql-geoparser"
 }
