@@ -1,0 +1,19 @@
+{
+  "name": "mssql-geoparser",
+  "version": "0.0.1",
+  "description": "a geo parser for mssql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geography",
+    "geometry",
+    "mssql",
+    "geo",
+    "sequel",
+    "server"
+  ],
+  "author": "theverything (Jeffrey Horn)",
+  "license": "MIT"
+}
